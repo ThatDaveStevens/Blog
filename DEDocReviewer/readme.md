@@ -30,16 +30,22 @@ Even this simple approach results in a very valuable set of information from eac
 ![image](images/legend.png)<br>
 ![image](images/graphView.png)<br>
 
+#### Video of the reader in action
+[![YouTube Video](images/video.png)](https://youtu.be/hINbddOiGNw)
+
+
 **Notes**
 - _Payments_ isn't included within the analyse as there are no matching industries, business areas or trends related to the matched industry.    If the industry _Banking_ was included within the document, then the analyses would have included payments as a matching business area.
 - Not shown in the diagram but something we are storing is the number of times the match is made within the 'REFERENCES' relationship between the document and the matched node.  This will allow us to do more with the information in a future release.
+
+
 
 ## Further use cases
 This is just the first implementation of this new feature; extended use cases we are already being discussed...
 
 1. Recommendations based on extracted content (solutions & people (WIP))
-1. Similarity between a "request" and a "response" (see community detection blog post)[https://englishsid.github.io/GraphCommunityDetection/]
-1. Extending the match against a richer graph network - see below
+2. Similarity between a "request" and a "response" (see community detection blog post)[https://englishsid.github.io/GraphCommunityDetection/]
+3. Extending the match against a richer graph network - see below
 
 
 ### Matching against a richer graph network
