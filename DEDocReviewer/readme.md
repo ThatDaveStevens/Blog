@@ -7,13 +7,15 @@ Information for any topic is available at the touch of a button or screen; avail
 
 As a result of the core Digital Explorer work and the a number of side projects harnessing various aspect of the information we have captured within the platform; the trust and position of Digital Explorer as the source of Digital relevance has become apparent.   DXC Digital Explorer is becoming the Digital Dictionary for DXC technology.
 
-This is now realized in a new update available within the Workspace module; a simple yet very powerful concept.
+![image](images/BaseLayers.png)<br>
 
 **Q: Can I upload a document or presentation and extract the key digital drivers and information from it?**
 
 ![image](images/header.png)<br>
 
 Of course the answer is yes and it's a result of a number of smaller prototype projects I have been a part of, both within DXC and as personal side project mainly centred around the principle of being "lazy but smart" ~ see reference work.
+
+This is now realized in a new update available within the Workspace module; a simple yet very powerful concept.
 
 The first implementation within DXC Digital Explorer is fairly simple; a match against the key digital references we currently.
 
