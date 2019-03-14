@@ -6,7 +6,7 @@ Workplace(facebook) and MS Teams are great social and collaboration platforsm, b
 
 In the same matter which we have included a document analyser within the Digital Explorer Workspace module, why can't we pass posts through the same engine?   
 
-![images](images/DigitalLens.png)
+![images](images/TheDigitalLens.png)
 
 People continue to post in the same way they do today and the Digital Lens BOT sits in the background enriching each post with insights relevant to the DXC organisation;  key industries, the digital trends we are tracking and discussing with clients.
 
