@@ -13,6 +13,6 @@ People continue to post in the same way they do today and the Digital Lens BOT s
 
 Then we can take this a step further; anyone still use [Tweetdeck](https://tweetdeck.twitter.com/)?   We could create our own version, pulling in from workplace, MS teams.  The groups, guilds and selected tag streams...
 
-![images](images/DigitalDeck.png
+![images](images/DigitalDeck.png)
 
 As I said at the start it's just an idea.
