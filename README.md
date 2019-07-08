@@ -15,3 +15,7 @@
 ## March 2019
 
 - [Digital Lens](DigitalLens/readme.md)
+
+## July 2019
+
+- [Digital Demand](DigitalDemand/readme.md)
