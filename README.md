@@ -19,3 +19,8 @@
 ## July 2019
 
 - [Digital Demand](DigitalDemand/readme.md)
+
+## October 2019
+
+- [The Product Owner](ProductOwner/readme.md)
+
