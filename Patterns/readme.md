@@ -15,6 +15,9 @@ The first benefit I am attempting to gain with a single information model for a 
 
 This is achieved by including a category (2 tier structure) against each solution model stored within Digital Explorer and is selected/managed on the very first pages when adding or editing a solution.
 
+![image](images/SolutionTypesDE.png)<br>
+_View of the solution type selection within Digital Explorer ~ Note Pattern and Reference Architecture are within the "Reference Datasets" category_
+
 
 ## It's a model for a reason
 Once a solution is captured as a data model the real potential to unlock new value becomes a reality and the means to leverage and reuse common patterns is possible.   **Documenting a pattern without the consumers understanding how it can be integrated into their own solution nullifies it's definition as a pattern; the information model used to describe the pattern must be known on both sides.**
