@@ -15,7 +15,7 @@ The first benefit I am attempting to gain with a single information model for a 
 
 This is achieved by including a category (2 tier structure) against each solution model stored within Digital Explorer and is selected/managed on the very first pages when adding or editing a solution.
 
-![image](images/SolutionTypesDE.png)<br>
+<img src="images/SolutionTypesDE.png" height="200"><br>
 _View of the solution type selection within Digital Explorer ~ Note Pattern and Reference Architecture are within the "Reference Datasets" category_
 
 
@@ -69,7 +69,8 @@ As patterns and other solutions types are added to a solution, duplications and 
   - Provides a known and trusted data stream into both manual processes and automated workflows.
 - Provides integrable components
 - The current information model only covers the first 2 layers of an architectural model; to bring true value and provide full automation (the architecture does become architecture-as-code), all 4 layers need to be included within a connected data model.<br>
-![image](images/4Layers.png)<br>
+<img src="images/4Layers.png" height="200"><br>
+
 - Cost modelling
   - Each capabilities and technical component included can also include a associated cost
   - The further down the model we are able to document the more accurate the cost 
