@@ -24,3 +24,12 @@
 
 - [The Product Owner](ProductOwner/readme.md)
 
+
+## May 2020
+
+- [The data fuelled organisation](DataFuelled/readme.md)
+
+
+## June 2020
+
+- [Pattern modelling](Patterns/readme.md)
