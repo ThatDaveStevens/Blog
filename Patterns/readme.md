@@ -52,7 +52,7 @@ As patterns and other solutions types are added to a solution, duplications and 
   - Provides a known and trusted data stream into both manual processes and automated workflows.
 - Provides integrable components
 - The current information model only covers the first 2 layers of an architectural model; to bring true value and provide full automation (the architecture does become architecture-as-code), all 4 layers need to be included within a connected data model.<br>
-![image](4Layers.png)<br>
+![image](images/4Layers.png)<br>
 - Cost modelling
   - Each capabilities and technical component included can also include a associated cost
   - The further down the model we are able to document the more accurate the cost 
