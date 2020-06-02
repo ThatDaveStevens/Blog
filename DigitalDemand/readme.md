@@ -1,6 +1,7 @@
 # Digital Demand Modelling
 
-The skills of an individual are instrumental to the success of any organisation; by connecting these skills to the demand signals an organisation captures new methods of strategic planning can be unlocked.   This post outlines the potential of a Graph data model to connect and unlock the  demand potential and strategic direction an organisation may wish to review.<br>
+The skills of an individual are instrumental to the success of any organisation; by connecting these **skills** to the **demand signals** an organisation can unlock new insights for strategic planning.   This post outlines the potential of a Graph data base to connect and unlock the demand potential and strategic direction an organisation may wish to review.<br>
+_This post is based on the DXC Digital Explorer and related graph models_
 
 ---
 
@@ -10,13 +11,30 @@ The definition of a `skill` is
 
 ---
 
-First we need to map the skill to an individual
+First we map the skill to an individual
 
 ![image](images/Skills.png)<br>
 ![image](images/Skills2.png)<br>
-![image](images/Skills3.png)<br>
 
-From this simply model it's possible to understand the available skills within an organisation; however this is a very traditional approach and only captures the current viewpoint of an organisation and requires each individual to maintain their personal skills list.
+From this simply model it's possible to understand the available skills within an organisation;
+
+Given that an individual belongs to a `team` and works in a given `location`; it's possible to create detailed views of team and country skillsets.
+<br>
+![image](images/Skills16.png)<br>
+<br>
+However this is a very traditional approach and only captures the current viewpoint of an organisation and requires each individual to maintain their personal skills list.
+
+## Tracking skills based on delivered outcomes
+
+TODO - here is the piece around DE solution, Github contribution models etc.
+
+
+This inside view is a highly valuable dataset; this unlocks the potential to make real-time recommendations and connect to experts.
+
+~~~
+DETAIL A USE CASE FOR A RECOMMENDATION AND SHOW THE MODEL.
+~~~
+
 
 ## How can we track demand to inform of us future skill requirements?
 
@@ -65,17 +83,16 @@ The core element within the _Digital Blueprint_ is the understanding of the digi
 <br>
 ![image](images/Skills11.png)<br>
 <br>
-- Short terms needs - skills required for the opportunities<br>
+- Short terms needs - Skills required for the opportunities<br>
 ![image](images/Skills12.png)<br>
-- Mid term needs - skills required for the business ideas<br>
+- Mid term needs - Skills required for the business ideas<br>
 ![image](images/Skills13.png)<br>
-- Long term needs - skills required for the <br>
+- Long term needs - Skills required for future business and  <br>
 ![image](images/Skills14.png)<br>
 
-<br><br>
-![image](images/Skills14.png)<br>
 
-:raising_hand: Although you could potential reach out into the CRM/SFDC system to enrich this information set further, this isn't required to create a very rich view.
+
+:raising_hand: Although you could potential reach out into the CRM/SFDC system to enrich this information set further, this isn't required to create a very rich view.<br>
 ![image](images/Skills15.png)<br>
 
 
@@ -87,4 +104,4 @@ Understanding the skills of an individual is key; maintaining that information i
 
 ## TO DO
 - provide some examples of industry trend/skills demands.
-- 
+- include some of the work completed for the digital fingerprint paper
