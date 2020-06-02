@@ -24,14 +24,14 @@ Once a solution is captured as a data model the real potential to unlock new val
 
 
 ## Standalone Patterns
-It's possible to create a single solution model as a *Pattern* within Digital Explorer; leveraging the full information model and integrating the pattern into the wider information eco-system the platform enables.<br>  A dedicated solution (sub)type for pattern is available today.
+It's possible to create a single solution model as a *Pattern* within Digital Explorer; leveraging the full information model and integrating the pattern into the wider information eco-system the platform enables.<br>  A dedicated solution (sub)type for pattern is available today.<br>
 <img src="images/aPattern.png" height="300"><br>
 
 
 ## Embedding Patterns
 Digital Explorer also provides the ability to document 1 or more patterns within a single larger solution model (e.g. a Reference Architecture)<br>
 ![image](images/embeddedPatterns.png)<br>
-
+<br>
 ![image](images/ExamplePattern.png)<br>
 _Example Pattern defined within DXC Digital Explorer_
 
