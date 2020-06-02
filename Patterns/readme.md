@@ -15,12 +15,14 @@ The first benefit I am attempting to gain with a single information model for a 
 
 This is achieved by including a category (2 tier structure) against each solution model stored within Digital Explorer and is selected/managed on the very first pages when adding or editing a solution.
 
-<img src="images/SolutionTypesDE.png" height="300"><br>
+<img src="images/SolutionTypesDE.png" height="350"><br>
 _View of the solution type selection within Digital Explorer ~ Note Pattern and Reference Architecture are within the "Reference Datasets" category_
 
 
 ## It's a model for a reason
-Once a solution is captured as a data model the real potential to unlock new value becomes a reality and the means to leverage and reuse common patterns is possible.   **Documenting a pattern without the consumers understanding how it can be integrated into their own solution nullifies it's definition as a pattern; the information model used to describe the pattern must be known on both sides.**
+Once a solution is captured as a data model the real potential to unlock new value becomes a reality and the means to leverage and reuse common patterns is possible.<br>
+<br>
+**Documenting a pattern without the consumers understanding how it can be integrated into their own solution nullifies it's definition as a pattern; the information model used to describe the pattern must be known on both sides.**
 
 
 ## Standalone Patterns
@@ -33,8 +35,29 @@ Digital Explorer also provides the ability to document 1 or more patterns within
 ![image](images/embeddedPatterns.png)<br>
 <br>
 ![image](images/ExamplePattern.png)<br>
+
 _Example Pattern defined within DXC Digital Explorer_
 
+
+## Publishing and Discovering Patterns
+By the very natural of creating a connected Graph dataset, the information created and managed within the Solution's module is also available within the other modules within Digital Explorer (and also via API calls for other systems to use)
+
+### Publishing
+Pattern and Reference Architecture owners (in fact any solution owner), can publish and share a single or a collection of patterns via an online **Playbook** directly within the Digital Explorer platform.  Each playbook allows authors to provide any additional supporting material (slides, text, data views) to complement the presentation of their solution models.   Being an online record, the viewing and sharing of each playbook provides another data stream into the data fuelled organisation and provides further input to support the value a pattern or reference architecture has provided external consumers.<br>
+
+<img src="images/Playbook.png" height="400"><br>
+
+_Example playbook page showing a summary of the solution model_
+
+
+### Discovering Patterns
+As mentioned each solution model it's own type or category, allowing users within the Workspace analytics module to filter the suggested solutions down to an appropriate level (i.e.  Show only matching patterns) 
+
+<img src="images/Suggestions.png" height="200"><br>
+
+_Filtering suggestions within the Digital Explorer Workspace module_
+
+---
 
 ## Future planned work
 
