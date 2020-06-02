@@ -7,7 +7,7 @@ The majority of my day job is in the role of product owner of [DXC Digital Explo
 Within the construct of a data fuelled organisation the benefit to not only adopt a common information model to describe it's products or solutions provided to customers, but capture this information as a **true information data model** unlocks a number of use cases and brings increased value.
 
 
-## Not all solutions are equal
+## A single (meta)model
 
 The first benefit I am attempting to gain with a single information model for a "Solution" is the potential for any number of different types of solutions to be documented; these could range from internal offerings, partner capabilities, demonstration or concepts through to full scale production solutions delivered to a customer.
 
