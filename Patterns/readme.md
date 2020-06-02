@@ -1,7 +1,10 @@
 # Pattern Modelling
+_June 2020_
 
 The majority of my day job is in the role of product owner of [DXC Digital Explorer](https://digitalexplorer.dxc.com); one key module within this platform is the Solutions module; allowing teams to share, discover and reuse solutions DXC has delivered to it's customers.   At the core of this module is the [DXC technologies solution reference model](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/DataModels/SolutionMetaModel.md
-).  Within the construct of a data fuelled organisation the benefit to adopt a common information model to describe it's products or solutions provided to customers unlocks a number of use cases and beings increased value.
+). <br> 
+
+Within the construct of a data fuelled organisation the benefit to not only adopt a common information model to describe it's products or solutions provided to customers, but capture this information as a **true information data model** unlocks a number of use cases and brings increased value.
 
 
 ## Not all solutions are equal
@@ -14,11 +17,11 @@ This is achieved by including a category (2 tier structure) against each solutio
 
 
 ## It's a model for a reason
-Once a solution is captured as a true information model the real potential to unlock new value becomes a reality and the means to leverage and reuse common patterns is possible.   Documenting a pattern without the consumers understanding how it can be integrated into their own solution nullifies it's definition as a pattern; the information model used to describe the pattern must be known on both sides.
+Once a solution is captured as a data model the real potential to unlock new value becomes a reality and the means to leverage and reuse common patterns is possible.   **Documenting a pattern without the consumers understanding how it can be integrated into their own solution nullifies it's definition as a pattern; the information model used to describe the pattern must be known on both sides.**
 
 
 ## Standalone Patterns
-It's possible to create a single solution model as a *Pattern* within Digital Explorer; leveraging the full information model and integrating the pattern into the wider information eco-system the platform enables.<br>
+It's possible to create a single solution model as a *Pattern* within Digital Explorer; leveraging the full information model and integrating the pattern into the wider information eco-system the platform enables.<br>  A dedicated solution (sub)type for pattern is available today.
 ![image](images/aPattern.png)<br>
 
 
@@ -26,13 +29,24 @@ It's possible to create a single solution model as a *Pattern* within Digital Ex
 Digital Explorer also provides the ability to document 1 or more patterns within a single larger solution model (e.g. a Reference Architecture)<br>
 ![image](images/embeddedPatterns.png)<br>
 
+![image](images/ExamplePattern.png)<br>
+_Example Pattern defined within DXC Digital Explorer_
 
-## Solutions become patterns
+
+## Future planned work
+
+
+### Solutions become patterns
 One of the true benefits of modelling all solutions, is the potential to use machine learning algorithms to help identify potential patterns from the complete or a subset of the solution information held.<br>
 
 ![image](images/PatternMatching.png)<br>
 
-## Nesting Solutions ~ removing duplication and identifying risk
+
+### Pattern becomes a standalone solution
+Similar to the use case above, following the identification of a new pattern within a single solution, it may be beneficial to extract out the pattern into it's own dedicated solution model; allowing further information and it's own development lifecycle to be applied to the pattern, without impacting the original solution where the pattern was first described.
+
+
+### Nesting Solutions ~ removing duplication and identifying risk
 
 The ability to compose or layer in solutions models on top of each other allows complex solutions to be composed and validated during solution development.<br>
 ![image](images/nestedSolutions.png)<br>
