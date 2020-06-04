@@ -25,6 +25,10 @@
 - [The Product Owner](ProductOwner/readme.md)
 
 
+## March 2020
+
+- [The value of aligning to a common information model](ModelMap/readme.md)
+
 ## May 2020
 
 - [The data fuelled organisation](DataFuelled/readme.md)
