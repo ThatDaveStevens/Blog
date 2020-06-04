@@ -99,3 +99,11 @@ As patterns and other solutions types are added to a solution, duplications and 
 - Cost modelling
   - Each capabilities and technical component included can also include a associated cost
   - The further down the model we are able to document the more accurate the cost 
+
+
+
+---
+
+## References
+
+[Solution Composition ~ Feb 2016](https://aginggeekblog.wordpress.com/2016/02/24/solution-composition/)
