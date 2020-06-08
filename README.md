@@ -37,3 +37,4 @@
 ## June 2020
 
 - [Pattern modelling](Patterns/readme.md)
+- [Composition within Digital Explorer](Composer/readme.md)
