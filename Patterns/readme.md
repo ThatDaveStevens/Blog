@@ -1,5 +1,6 @@
 # Pattern Modelling
-_June 2020_
+<div align="right">June 2020</div>
+<div align="right">David Stevens</div>
 
 The majority of my day job is in the role of product owner of [DXC Digital Explorer](https://digitalexplorer.dxc.com); one key module within this platform is the Solutions module; allowing teams to share, discover and reuse solutions DXC has delivered to it's customers.   At the core of this module is the [DXC technologies solution reference model](https://github.com/dxc-technology/dxc-digitalexplorer/blob/master/DataModels/SolutionMetaModel.md
 ). <br> 
