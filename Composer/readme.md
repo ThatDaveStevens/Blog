@@ -14,11 +14,11 @@ To ease the usage and aid user experience, only certain solution models will be 
 
 The following solution types are available to be merged into a new solution model
 
-- Reference Dataset | Pattern
-- Reference Dataset | DXC Offering
-- Emerging Partners
-- Alliance Partners
-- Embedded patterns within any other solutions
+- DXC Offering
+- Emerging Partner
+- Alliance Partner
+- Pattern
+- Embedded pattern within any other solution
 
 ## The Graph Model
 
@@ -69,4 +69,4 @@ this solution model include elements from the following other solutions...
 
 ## References
 
-[Solution Composition ~ Feb 2016](https://aginggeekblog.wordpress.com/2016/02/24/solution-composition/
+[Solution Composition ~ Feb 2016](https://aginggeekblog.wordpress.com/2016/02/24/solution-composition/)
