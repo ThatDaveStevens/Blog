@@ -1,4 +1,4 @@
-# NLP within Graph
+# NLP within Graph (Azure and Neo4j)
 ## shifting from matching against what we know to what we don't (yet) know
 
 To date the text analytics within the Digital Explorer platform has been based on matching against "things we already know", i.e. we analyse web sites and documents against our managed knowledge base of **Trends** and **Industry models** with some limited NLP applied.   
@@ -84,3 +84,6 @@ To highlight this within the UI, we have included an additional icon and filters
 ![image](images/card.png)<br>
 
 _Thanks to Adrian Kasprzyk on the Digital Explorer development team for the coding and implementation of this._
+
+
+`Azure`, `Neo4j`

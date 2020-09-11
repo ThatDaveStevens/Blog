@@ -38,3 +38,8 @@
 
 - [Pattern modelling](Patterns/readme.md)
 - [Composition within Digital Explorer](Composer/readme.md)
+
+
+## September 2020
+
+- [NLP in Graph with Azure](NLPinGraph/readme.md)
