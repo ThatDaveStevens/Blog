@@ -35,22 +35,28 @@ With the updates in development within the Workgroup module, there is certainly 
 
 Workgroups is the central working module of the platform; it's where relationship builders, innovators and architects can combine efforts to analyse requirements, capture the hypothesis and progress these into high level architecture models.
 
+![images](images/WorkspacesNow.png)<br>
 
 ### Workgroup usage patterns
-The key and primary usage pattern for the workgroups modules are the individual workspaces a team are create; providing an intelligent online collaboration canvas or whiteboard to model and understand requirements.   Since the introduction of the intelligent document reader the usage of workgroups has accelerated; from a single digit numbers of workspaces on the platform to now close to 2,000 individual workspaces having been created.  However the daily usage numbers are low
+The key and primary usage pattern for the workgroups modules are the individual workspaces a team are create; providing an intelligent online collaboration canvas or whiteboard to model and understand requirements.   Since the introduction of the intelligent document reader the usage of workgroups has accelerated; from a single digit numbers of workspaces on the platform to now close to 2,000 individual workspaces having been created.  However the daily usage numbers are low and the general awareness of the platform within the organisation continues to impact the potential usage rates.
 
 
 #### Rolling the dice
-A more advanced version of the intelligent document reader is in development, with will provide full natural language (NLP) analyse of the provided content, no longer just matching against "what we already know", it will provide far deeper insights into all the key themes within the document
+A more advanced version of the intelligent document reader is in development, with will provide full natural language (NLP) analyse of the provided content, no longer just matching against "what we already know", it will provide far deeper insights into all the key themes within each document; I believe this will extend further the business value of this module and reveal more interesting use cases.
+
+![images](images/WorkspacesFuture.png)<br>
 
 
 #### Alternatives outside of Digital Explorer
-There are many online, visual collaboration tools (stormboard, Mural, Miro to name but 3), the major difference and value Workgroups brings both DXC and it's open source users is the intelligent document readers and the ability to connect to experts and a portfolio/catalog of potential solutions; I do not see any commercial or open source product providing that level of connection today.  Whilst teams continue to use these other platforms, the pending paywall and lack of an enterprise agreement to export and use the outcomes within these alternatives shouldn't be under estimated.
+There are many online, visual collaboration tools (stormboard, Mural, Miro to name but 3), the major difference and value Workgroups brings both DXC and it's open source users is the intelligent document readers and the ability to highlight key themes and potential trends across a collection of workgroups. Some minor improvements how workgroups are categorized has the potential to provide an centralized research and competitive analyse workbench and give insights to individual workgroup users (e.g. this theme occurs in *x* other workgroups).   I do not see any commercial or open source product providing that level of connection today.  Whilst teams continue to use these other platforms, the pending paywall and lack of an enterprise agreement to export and use the outcomes within these alternatives shouldn't be under estimated.
 
 
-### Recommendation : Invest
+### Recommendation : **Invest**
 Potentially extract the module to it's own standalone application, rebrand ("DXC Spaces"?) and provide a fully open sourced (simplified) offering promoted through GTM channels.
 
+- De-couple from the solutions and recommendation engine - the need to feed the solutions module with reference solutions and portfolio offerings is key to the success of this recommendation features, 
+
+---
 
 ## Roadmaps
 
@@ -58,40 +64,43 @@ The roadmap module provides the ability to create roadmaps (does what is says on
 
 
 ### Roadmaps usage patterns
-The adoption of the roadmaps module is critically low, in part impacted by the presentation of one of the key artefacts (the T-Map diagram), updates have been made to the platform to improve the presentation and sharing of the roadmap information and the original intent of the *playbooks* module was to give accounts a more engaging method to present and share their roadmaps with customers; I think the messaging and training on this update was an opportunity missed.  But there is also a change management and communication issue  impacting the adoption and improvement of this module, innovation leaders (regional, industry and practice) continue to except the artefacts created in silos as Microsoft office based documents, ignoring and losing the ability to scan, collate and act on similar hypothesis across single or multiple industry sectors.
+The adoption of the roadmaps module is critically low, in part impacted by the presentation of one of the key artefacts (the T-Map diagram), updates have been made to the platform to improve the presentation and sharing of the roadmap information and the original intent of the *playbooks* module was to give accounts a more engaging method to present and share their roadmaps with customers; I think the messaging and training on this update was an opportunity missed.  But there is also a change management and communication issue  impacting the adoption and longer term improvement of this module, innovation leaders (regional, industry and practice) continue to except the artefacts created in silos as Microsoft office based documents, ignoring and losing the ability to scan, collate and act on similar hypothesis across single or multiple industry sectors.
 
 2020 viewpoint : Currently there are 281 roadmaps created within the platform, an increase of 76 for the year to date; this increase was mainly during the Q1 (early lockdown) period.
 
 #### Alternatives outside of Digital Explorer
-Can the promise of MS Cortex and a well structured/connected approach to the creation and maintenance of MS Teams sites resolve the issues to connect and develop those small and common business opportunities. 
+Can the promise of [MS Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) and a well structured/connected approach to the creation and maintenance of MS Teams sites resolve the issues to connect and develop those small and common business opportunities. 
 
 ### Recommendation : **Archive**
 
 
 ## Solutions
 
-The one which started it all, a model based approach to solution architecture; *what we build*, *solution explorer*, *digital explorer : solutions*, it's had quite a journey and many contributors (and distractors) along the way.    The vision of the solutions module is to allow users to create, share and reuse other solution models to compose their own new solutions.  Models which can include patterns and varying viewpoints from a single data model.    The underlying model is based on the Opengroup Archimate standards and has been a key influencer of the [DXC Technical Doctrine](https://www.dxc.technology/innovation/insights/147802-dxc_s_technical_doctrine)'s solution blueprint and standards guidelines.
+The one which started it all, a model based approach to solution architecture; *what we build*, *solution explorer*, *digital explorer : solutions*, it's had quite a journey and many contributors (and distractors) along the way.    The vision of the solutions module is to allow users to create, share and reuse other solution models to compose their own new solutions.  Models which can include patterns and varying viewpoints from a single data model.    The underlying model is based on the [Opengroup Archimate](https://www.opengroup.org/archimate-forum/archimate-overview) standards and has been a key influencer of the [DXC Technical Doctrine](https://www.dxc.technology/innovation/insights/147802-dxc_s_technical_doctrine)'s solution blueprint and standards guidelines.
 
 
 ### Solution usage patterns
 The solution module has proven an excellent platform to support the annual [Technical Excellence](https://www.dxc.technology/innovation/flxwd/146374-2019_awards_for_technical_excellence) rewards program, ensuring solutions are submitted and take advantage of the developing technical doctrine standards; we have also developed supporting "people vote" updates to support the program.   The challenge is how to address the potential deadend of creating content within the platform itself; Digital Explorer Solutions must provide a means for users to export and continue working on their solution models outside of the platform.   A working information exchange between files & folders (MS teams), GitHub and other CMS platforms needs to be found.   
 
-One continuous struggle is a secured data feed from our own portfolio team; impacted by rehosting a key data repository, the urgency and executive drive isn't there to push this to a new resolution; despite vocalizing the value at various points.
-
+In terms of a feeder of the recommendation engine for the Workgroups module, one continuous struggle is a secured data feed from our own portfolio team; impacted by rehosting a key data repository, the urgency and executive drive isn't there to push this to a new resolution; despite continued minor mentions about the value of doing so, the final push or message is always missing.
 
 ### Rolling the dice
-The big bet with the Solution module is *composition*, the final piece of the puzzle to complete the original vision and intent of the module.    Is composition this modules "intelligent document reader" and the accelerator for adoption?  
+The big bet with the Solution module is [*composition*](../Composer/readme.md), the final piece of the puzzle to complete the original vision and intent of the module.    Is composition this modules "intelligent document reader" and the accelerator for adoption?  Once the executive leaders see composition in practice their drive to feed in their own portfolio information will follow?
 
 #### Alternatives outside of Digital Explorer
-There are many solution/EA architecting tools and platforms on the market today; most providing a central library of building blocks, most allowing organisation to define the underlying metamodels of solution architectures.    The key difference and business value Digital Explorer brings is the integration within a customer journey; can this information gap be resolved with enterprise search and a well defined and managed structure of other repositories.  
+There are many solution/EA architecting tools and platforms on the market today; most providing a central library of building blocks, most allowing organisation to define the underlying metamodels of solution architectures.    The key difference and business value Digital Explorer brings is the integration within a customer journey; can this information gap be resolved with enterprise search and a well defined and managed structure of other repositories?.  
 
-Then there is **GitHub**, and this is where I continue to struggle, I'm all in on the value and speed to write documentation as code; all the [documentation for Digital Explorer](https://github.com/dxc-technology/dxc-digitalexplorer) is on GitHub, but as a true model based approach to harvest and reuse I just can't see how its going to work.   For example, I find 2 useful patterns documented on 2 separate GitHub repositories and I want to fork and merge them into a new evolving solution model for a customer.   How is that actually going to work?  What is the architect's user experience here?   Are we planning to make Architects code developers?    
+Then there is **GitHub**, and this is where I continue to struggle, I'm all in on the value and speed to write documentation as code; all the [documentation for Digital Explorer](https://github.com/dxc-technology/dxc-digitalexplorer) is on GitHub, even this blog is on GitHub, but as a true model based approach to harvest and reuse I just can't see how its going to work.   For example, I find 2 useful patterns documented on 2 separate GitHub repositories and I want to fork and merge them into a new evolving solution model for a customer.   How is that actually going to work?  What is the architect's user experience here?   Are we planning to make Architects code developers?    
 
-The elephant in the room?   Both GitHub and Digital Explorer are positioned by the same team in DXC without a clear message on their current and intended use cases.
+The elephant in the room - Both GitHub as an internal solution repository and Digital Explorer are positioned by the same team in DXC without a clear message on their current and intended use cases.    A simple message on the usage patterns for project based activity and archive/harvest/reuse needs to be defined and published - where is the interest to do even within my own team?
 
-Whilst MS Teams and well structured shrepoints can ertinly help resolve 
 
-### Recommendation : Review and invest in key areas
+
+### Recommendation : **Review and invest in key areas**
+
+- Blueprint templates : the contribution and evolution of a standard solution blueprint shouldn't be lost, irrespective of the platform or repository where the blueprints are held; the experience of many senior architects have shaped these guidelines and through the excellent work within the DXC Architecture Guild, will continue to do so.
+
+- DXC portfolio and composition
 A strong push to reenable the portfolio data feed is key, with leadership promoting the results it provides portfolio owners to improve their offering material; paired with the ability for customer facing teams to compose in a graphically interface a selection of offerings into a customer solution.
 
 

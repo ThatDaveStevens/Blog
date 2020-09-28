@@ -51,5 +51,5 @@
 ## October 2020
 
 - [Online collaboration - the need for great intelligence](collaborationTools/readme.md)
-- [Personas](Personas/readme.md
+- [Personas](Personas/readme.md)
 
