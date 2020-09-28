@@ -86,16 +86,22 @@ The solution module has proven an excellent platform to support the annual [Tech
 
 In terms of a feeder of the recommendation engine for the Workgroups module, one continuous struggle is a secured data feed from our own portfolio team; impacted by rehosting a key data repository, the urgency and executive drive isn't there to push this to a new resolution; despite continued minor mentions about the value of doing so, the final push or message is always missing.
 
+![image](images/solutions.png)<br>
+
 ### Rolling the dice
+
+Is the solutions module a centralized repository of completed solutions or a modelling/creation tool?
+
 The big bet with the Solution module is [*composition*](../Composer/readme.md), the final piece of the puzzle to complete the original vision and intent of the module.    Is composition this modules "intelligent document reader" and the accelerator for adoption?  Once the executive leaders see composition in practice their drive to feed in their own portfolio information will follow?
+
+As a centralized repository of completed solutions, there is continued potential if integrations between trusted and well structured repositories can be maintained; we have an early release of a integration between GitHub and Digital Explorer, but the stability/need of very well structured templates is a potential pitfall.   There needs to be a similar investigation and prototype between Digital Explorer and MS Teams; but here we are faced with the elephant in the room.
+
+*The elephant in the room - GitHub (as a centralized discovery/marketplace experience) and Digital Explorer are funded and positioned by the same team in DXC without a clear message on their current and intended use cases.  A simple message on the usage patterns for project based activities and archive/harvest/reuse needs to be defined and published*    Can we not simplify the capture of target repositories (create a new github app) for owners to add to their repository which creates a simple readme.md file with enough information to populate the Digital Explorer solution model (minimum entry - 3 - 4 lines) and link back to their master repository?     The double overhead of funding a marketplace/GitHub publishing engine is immediately removed and a stream of solutions is automatically created for sales and account leadership teams; who we know will never search/access GitHub.
 
 #### Alternatives outside of Digital Explorer
 There are many solution/EA architecting tools and platforms on the market today; most providing a central library of building blocks, most allowing organisation to define the underlying metamodels of solution architectures.    The key difference and business value Digital Explorer brings is the integration within a customer journey; can this information gap be resolved with enterprise search and a well defined and managed structure of other repositories?.  
 
-Then there is **GitHub**, and this is where I continue to struggle, I'm all in on the value and open collaboration of writing documentation as code; all the [documentation for Digital Explorer](https://github.com/dxc-technology/dxc-digitalexplorer) is on GitHub, even this blog is on GitHub, but as a true model based approach to harvest and reuse I just can't see how its going to work.   For example, I find 2 useful patterns documented on 2 separate GitHub repositories and I want to fork and merge them into a new evolving solution model for a customer.   How is that actually going to work?  What is the architect's user experience here?   Are we planning to make Architects code developers?  I've seen nothing written down to articulate how this is going to work. 
-
-*The elephant in the room - Both GitHub as an internal solution repository and Digital Explorer are funded and positioned by the same team in DXC without a clear message on their current and intended use cases.    A simple message on the usage patterns for project based activities and archive/harvest/reuse needs to be defined and published*
-
+Then there is again **GitHub**, and in this context as a repository to create and maintain solution architecture models.  This is where I really struggle, I'm all in on the value and open collaboration of writing documentation as code; all the [documentation for Digital Explorer](https://github.com/dxc-technology/dxc-digitalexplorer) is on GitHub, even this blog is on GitHub, and as a code repoistory as part of an agile development train it's a no brainer,  but as a true model based approach to harvest and reuse I just can't see how its going to work.   For example, I find 2 useful patterns documented on 2 separate GitHub repositories and I want to fork and merge them into a new evolving solution model for a customer.   How is that actually going to work?  What is the architect's user experience here?   Are we planning to make Architects code developers?  I've seen nothing written down to articulate how this is going to work. 
 
 
 ### Recommendation : **Review and invest in key areas**
@@ -105,10 +111,15 @@ Then there is **GitHub**, and this is where I continue to struggle, I'm all in o
 - DXC portfolio and composition
 A strong push to reenable the portfolio data feed is key, with leadership promoting the results it provides portfolio owners to improve their offering material; paired with the ability for customer facing teams to compose in a graphical interface from a selection of recommended offerings into a customer solution.
 
+- Solution and Pattern marketplace
+A fundamental review of the approach of creating a marketplace of trusted patterns and models needs to be considered.  Empowering teams to submit their solutions automatically (through a simple github application) is a quick win for the organisation; pulling this information into a centralised knowledge model (not enterprise search) unlocks value across the full customer engagement journey. 
+
 
 ## Playbooks
 
 Playbooks, created to address requests to allow teams to "tell a story with their roadmaps" is now a full ebook/publishing module; allowing users to create interactive viewpoints from all areas of the platform; heatmaps from a collection of workgroups, single page outline of a solution or customer hypothesis, comparison, graph views, tmaps and risk tables, plus standard text and images; we pulled all the possible data views into a single publishing module.    But we forgot one very important thing; presentation is key and in particular a responsive layout for the playbook irrespective of the users device or screen resolution.   Honestly the example playbooks I create look good, but I genuinely shudder when I see others showing and presenting theirs during online meetings.
+
+![image](images/playbook.png)<br>
 
 
 ### Recommendation : Review and invest in a full responsive UI update.
