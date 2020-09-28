@@ -39,6 +39,9 @@
 - [Pattern modelling](Patterns/readme.md)
 - [Composition within Digital Explorer](Composer/readme.md)
 
+## July 2020
+
+- [Credit where credit is due](Poster/readme.md)
 
 ## September 2020
 
@@ -47,6 +50,6 @@
 
 ## October 2020
 
-- [Personas]()
-- [Online collaboration - the need for great intelligence]()
+- [Online collaboration - the need for great intelligence](collaborationTools/readme.md)
+- [Personas](Personas/readme.md
 
