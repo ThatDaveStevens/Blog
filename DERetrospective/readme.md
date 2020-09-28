@@ -1,11 +1,11 @@
 # Digital Explorer
 ## David versus Goliath
 
-[DXC Digital Explorer](https://digitalexplorer.dxc.com) is a pioneering project within the DXC Global Technology Office, sponsored by the Global CTO and Chief Architect.   The platform enables a fully data driven customer engagement from understanding requirements to composing solutions.   Leveraging a Neo4j Graph database platform, the platform provides 5 highly connected modules.    Where do I see the adoption and value of these modules today.
+[DXC Digital Explorer](https://digitalexplorer.dxc.com) is a pioneering project within the DXC Global Technology Office, sponsored by the Global CTO and Chief Architect.   The platform enables a fully data driven customer engagement from understanding requirements to composing solutions.   Leveraging a Neo4j Graph database platform, the platform provides 5 highly connected modules.    
 
-![image](images/DEMap.png)<br>
-_Wardley Map of the adoption/delivered value of the 5  modules_
+![images](images/Personas.png)<br>
 
+### Where do I see the adoption and value of these modules today?
 
 ## Trends
 
@@ -111,3 +111,11 @@ Playbooks, created to address requests to allow teams to "tell a story with thei
 
 ### Recommendation : Review and invest in a full responsive UI update.
 Data story telling is a emerging trend.  Interactive and adaptive presentations will transform how sales and delivery teams engage with their customers.    Canned and highly reviewed sales decks help with the 5 minute introductions, but the ability to frame and show how the solution relates and has a positive impact on a customer is key.    We develop applications in agile sprints, we should be able to prepare, discuss and change ideas and proposals at the same pace (if not even faster).
+
+
+## Closing thoughts
+
+
+![image](images/DEMap.png)<br>
+_Wardley Map of the adoption and direction of the 5 modules_
+
