@@ -1,5 +1,5 @@
 # NLP within Graph (Azure and Neo4j)
-## shifting from matching against what we know to what we don't (yet) know
+## Shifting from matching against what we know to what we don't (yet) know
 
 To date the text analytics within the Digital Explorer platform has been based on matching against "things we already know", i.e. we analyse web sites and documents against our managed knowledge base of **Trends** and **Industry models** with some limited NLP applied.   
 We are now mid-way through the development of an update to add full text analyse to our document reader.   Leveraging the Azure Cognitive Service API's we'll be passing the raw text to these API's.

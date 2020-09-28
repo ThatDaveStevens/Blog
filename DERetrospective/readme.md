@@ -26,7 +26,7 @@ The module is ideally suited for the DXC industry communities and go to market t
 Can a well managed, structure approach to MS Teams and the content created within them break the barriers of deferring back to industry silos and individual viewpoints?
 
 
-### Recommendation : Review with a plan to change approach
+### Recommendation : **Archive** with a plan to change approach
 Can the DXC industry teams adopt this module and it's potential value of connected insights?  or do we roll the dice and look at a fully automated machine derived answer?
 
 With the updates in development within the Workgroup module, there is certainly the possibility to archive this module and switch to a 100% machine learning approach to highlighting the key trends from the external content analyse with the NLP update in development; the PageRank algorithm would certainly be able to return the highest value themes\trends across all the workgroups created; paired with knowledge of an associated customer or industry automated filters can be applied to present a similar viewpoint to that manually curated today.
@@ -65,7 +65,7 @@ The adoption of the roadmaps module is critically low, in part impacted by the p
 #### Alternatives outside of Digital Explorer
 Can the promise of MS Cortex and a well structured/connected approach to the creation and maintenance of MS Teams sites resolve the issues to connect and develop those small and common business opportunities. 
 
-### Recommendation : Review with a plan to archive
+### Recommendation : **Archive**
 
 
 ## Solutions
@@ -85,8 +85,11 @@ The big bet with the Solution module is *composition*, the final piece of the pu
 #### Alternatives outside of Digital Explorer
 There are many solution/EA architecting tools and platforms on the market today; most providing a central library of building blocks, most allowing organisation to define the underlying metamodels of solution architectures.    The key difference and business value Digital Explorer brings is the integration within a customer journey; can this information gap be resolved with enterprise search and a well defined and managed structure of other repositories.  
 
-Then there is **GitHub**, and this is where I continue to struggle, I'm all in on the value and speed to write documentation as code; all the [documentation for Digital Explorer](https://github.com/dxc-technology/dxc-digitalexplorer) is on GitHub, but as a true model based approach to harvest and reuse I just can't see how its going to work.   For example, I find 2 useful patterns documented on 2 separate GitHub repositories and I want to fork and merge them into a new evolving solution model for a customer.   How is that actually going to work?  What is the architect's user experience here?   Are we planning to make Architects code developers?    the elephant in the room?   both GitHub and Digital Explorer are positioned by the same team in DXC.
+Then there is **GitHub**, and this is where I continue to struggle, I'm all in on the value and speed to write documentation as code; all the [documentation for Digital Explorer](https://github.com/dxc-technology/dxc-digitalexplorer) is on GitHub, but as a true model based approach to harvest and reuse I just can't see how its going to work.   For example, I find 2 useful patterns documented on 2 separate GitHub repositories and I want to fork and merge them into a new evolving solution model for a customer.   How is that actually going to work?  What is the architect's user experience here?   Are we planning to make Architects code developers?    
 
+The elephant in the room?   Both GitHub and Digital Explorer are positioned by the same team in DXC without a clear message on their current and intended use cases.
+
+Whilst MS Teams and well structured shrepoints can ertinly help resolve 
 
 ### Recommendation : Review and invest in key areas
 A strong push to reenable the portfolio data feed is key, with leadership promoting the results it provides portfolio owners to improve their offering material; paired with the ability for customer facing teams to compose in a graphically interface a selection of offerings into a customer solution.
@@ -94,15 +97,8 @@ A strong push to reenable the portfolio data feed is key, with leadership promot
 
 ## Playbooks
 
-Playbooks, created to address requests to allow teams to "tell a story with their roadmaps" is now a full ebook/publishing module; allowing users to create interactive viewpoints from all areas of the platform; single heatmap from a collection of workgroups, single page outline of a solution or customer hypothesis, comparison, graph views, tmaps and risk tables; we pulled all the possible data views into a single publishing module.    But we forgot one very important thing; presentation is key and in particular a responsive layout for the presentation irrespective of the users device or screen resolution.   Honestly the example playbooks I create look great, but I genuinely shudder when I see others showing and presenting their via teams.  
+Playbooks, created to address requests to allow teams to "tell a story with their roadmaps" is now a full ebook/publishing module; allowing users to create interactive viewpoints from all areas of the platform; single heatmap from a collection of workgroups, single page outline of a solution or customer hypothesis, comparison, graph views, tmaps and risk tables; we pulled all the possible data views into a single publishing module.    But we forgot one very important thing; presentation is key and in particular a responsive layout for the presentation irrespective of the users device or screen resolution.   Honestly the example playbooks I create look great, but I genuinely shudder when I see others showing and presenting theirs during online meetings.  
 
 
 ### Recommendation : Review and invest in a full responsive UI update.
 Data story telling is a emerging trend.  Interactive and adaptive presentations will transform how sales and delivery teams engage with their customers.    Canned and highly reviewed sales decks help with the 5 minute introductions, but the ability to frame and show how the solution relates and has a positive impact on a customer is key.    We develop applications in agile sprints, we should be able to prepare, discuss and change ideas and proposals at the same pace (if not even faster).
-
-
-# Development issues
-We are a very small team, I would also say in-experienced (I'm an architect by education and training and have become a product owner over the last 3 years) and whilst our in-experience across the team has has created a great dynamic (we support each other and there isn't really ever a rush to close out a sprint (it's more an agile jog)), this has had an impact.   From fighting internal processes; which I understand their reason for being, but the continuous justification of "securing customer resources for an internal endeavour" does wear you down after a while.   In terms of delivering the vision to it's intent, we suffer with a lack of any UX skills within the team.   There is a reason they said "don't let technies design websites", maybe we should make that statement even clearer "don't let the product owner/architect design the website"
-
-# Conclusion
-It's fair to say DXC has a unique style of management; whilst I totally welcome the freedom to innovate and not be micro managed it can sometimes be just a little too distance and cold.     The availability of the funding stream is clear evidence of the support and belief in the work underway, of that I have no doubt.    But the product has lacked the final push and "I'll get you on the agenda" drive from the most senior leaders within the organisation.   **"A successful product owner of a start-up embedded in a massive global organisation"**, is a potentially interesting keynote for my retirement circuit, although it's more likely I'll just be out on my bike.

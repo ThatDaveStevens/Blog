@@ -43,3 +43,10 @@
 ## September 2020
 
 - [NLP in Graph with Azure](NLPinGraph/readme.md)
+- [Digital Explorer - A Retrospective](DERetrospective/readme.md)
+
+## October 2020
+
+- [Personas]()
+- [Online collaboration - the need for great intelligence]()
+
