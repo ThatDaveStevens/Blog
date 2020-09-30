@@ -2,11 +2,7 @@
 
 All knowledge within an organisation is valuable information; 21st century organisations need to not only unlock this knowledge as information sources, but also connect these information sources.
 
+Related posts 
 
-
-The simple organisation information model
-
-
-
-
-[Patterns](../Patterns/readme.md)<br>
+- [Patterns](../Patterns/readme.md)<br>
+- [Composition](../Composer/readme.md)

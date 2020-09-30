@@ -33,7 +33,6 @@
 
 - [The data fuelled organisation](DataFuelled/readme.md)
 
-
 ## June 2020
 
 - [Pattern modelling](Patterns/readme.md)
@@ -52,4 +51,6 @@
 
 - [Online collaboration - the need for great intelligence](collaborationTools/readme.md)
 - [Personas](Personas/readme.md)
+- [Supply and Demand - pushing the horizon](Horizon/readme.md)
+
 
