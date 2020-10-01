@@ -22,14 +22,14 @@ These are the one page idea documents or discussions during an innovation worksh
 
 ## Listening to the signals
 
-I think the challenges and risks to an organisation analysing just their CRM systems is clear; organisations must give sales and account teams simple mechanism to allow the hypothesis to be captured; captured in simple form and a central solution to allow the similarity of these signals to be analysed, both in terms of portfolio, the new enablers but also the associated market value.
+I think the challenges and risks to an organisation analysing just their CRM systems is clear; organisations must give sales and account teams simple mechanism to allow the hypothesis to be captured; captured in simple form and a central solution to allow the similarity of these signals to be analysed, both in terms of portfolio, the new enablers but also the associated market value.   The SAFe [epic hypothesis](https://www.scaledagileframework.com/epic/) template is ideally suited for this and is something we have modelled within Digital Explorer
 
 
 ### Connecting islands
 
 ![image](images/islands1.png)<br>
 
-If we continue to allow the horizon to move away from us, the risk is create even greater distance between our people, our portfolio, partners and the required skills to deliver increases.   Here organisations must plan to connect (tie ropes too) various anchor points within the conversion; each customer conversations should be analysed and the hypothesis should call out key trends and terms; skills and associated courses must be pulled closer to these same connection points.   
+If we continue to allow the horizon to move away from us, the risk is even greater distance between our people, our portfolio, partners and the required skills to deliver.   Organisations must plan to connect various anchor points within these areas; each customer conversations should be analysed and the hypothesis' should call out key trends and terms; skills and associated courses must be pulled closer to these same connection points.   
 
 ![image](images/islands2.png)<br>
 
@@ -39,4 +39,3 @@ Both my current focus projects **Digital Explorer** and **Employee Fingerprint**
 
 
 `digital explorer`, `digital fingerprint`
-
