@@ -29,7 +29,7 @@ I think the challenges and risks to an organisation analysing just their CRM sys
 
 ![image](images/islands1.png)<br>
 
-If we continue to allow the horizon to move away from us, the risk is even greater distance between our people, our portfolio, partners and the required skills to deliver.   Organisations must plan to connect various anchor points within these areas; each customer conversations should be analysed and the hypothesis' should call out key trends and terms; skills and associated courses must be pulled closer to these same connection points.   
+If we continue to allow the horizon to move away from us, the risk is even greater distance between our people, our portfolio, partners and the required skills to deliver future solutions.   Organisations must plan to capture and connect various anchor points within these areas; each customer conversations should be analysed and the hypothesis' should call out key trends and terms; skills and associated courses must be pulled closer to these same connection points.   
 
 ![image](images/islands2.png)<br>
 
@@ -39,3 +39,9 @@ Both my current focus projects **Digital Explorer** and **Employee Fingerprint**
 
 
 `digital explorer`, `digital fingerprint`
+
+---
+
+[BACK](../readme.md)
+
+---
