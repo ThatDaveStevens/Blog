@@ -18,7 +18,7 @@ Depending on the time scale of the engagement, these could result in demands for
 ### Hypothesis and Ideas
 These are the one page idea documents or discussions during an innovation workshop or even at the watercooler; these could be 3 or more months away from developing into a formal sales opportunity, these can also completely disappear from your radar.  If viewed as a single discussion do not provide enough information to see the shift in the market and the changes required to an organisations portfolio. 
 
-`What we sell vs. What we need`
+`What We Sell vs. What We Need`
 
 ## Listening to the signals
 
