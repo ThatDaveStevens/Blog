@@ -51,6 +51,6 @@
 
 - [Online collaboration - the need for great intelligence](collaborationTools/readme.md)
 - [Personas](Personas/readme.md)
-- [Supply and Demand - pushing the horizon](Horizon/readme.md)
+- [Supply and Demand - pulling the horizon closer](Horizon/readme.md)
 
 
