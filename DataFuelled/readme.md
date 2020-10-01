@@ -5,4 +5,11 @@ All knowledge within an organisation is valuable information; 21st century organ
 Related posts 
 
 - [Patterns](../Patterns/readme.md)<br>
-- [Composition](../Composer/readme.md)
+- [Composition](../Composer/readme.md)<br>
+- [Pulling the Horizon closer](../Horizons/readme.md)<br>
+
+---
+
+[BACK](../README.md)
+
+---

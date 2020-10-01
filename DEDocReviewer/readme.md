@@ -65,3 +65,10 @@ A Digital dictionary brings initial high value, but what is already apparent is 
 [6] [Breaking down my DXC tech honour's application: Jan 2018 D Stevens](https://aginggeekblog.wordpress.com/2018/01/06/tech-honors-breakdown/)<br>
 [7] [DXC RFI Analytics project: Nov 2018 G Augys, G Chastney, C Rogers, D Stevens :lock: _internal DXC project_](https://github.dxc.com/MyDXCGraph/RFPAnalytics)<br>
 [8] [DXC Digital Skills Analyse: Jan 2019 C Rogers, D Stevens :lock: _internal DXC project_](https://github.dxc.com/MyDXCGraph/DXCSkills)
+
+
+---
+
+[BACK](../README.md)
+
+---

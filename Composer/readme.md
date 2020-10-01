@@ -70,3 +70,10 @@ this solution model include elements from the following other solutions...
 ## References
 
 [Solution Composition ~ Feb 2016](https://aginggeekblog.wordpress.com/2016/02/24/solution-composition/)
+
+
+---
+
+[BACK](../README.md)
+
+---
