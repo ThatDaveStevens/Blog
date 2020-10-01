@@ -12,7 +12,7 @@ Details of the active and soon to be started projects an organisation is deliver
 
 `What We Sell vs. What We Deliver`
 
-### In Progress Sales Opportunities with CRM systems
+### In Progress Sales Opportunities & CRM systems
 Depending on the time scale of the engagement, these could result in demands for project resource being made from everything ranging from 3 to 18 months; the real danger of the CRM system is the **confirmation bias** tracking your own portfolio can bring to an organisation; **"Has the market share changed?"**  or **"Has the market demand changed to something else?"**
 
 ### Hypothesis and Ideas
