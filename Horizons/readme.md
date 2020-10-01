@@ -42,6 +42,6 @@ Both my current focus projects **Digital Explorer** and **Employee Fingerprint**
 
 ---
 
-[BACK](../readme.md)
+[BACK](../README.md)
 
 ---
