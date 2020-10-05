@@ -64,7 +64,6 @@ CREATE (p3:Person{name:'William Gibson'})
 CREATE (p4:Person{name:'Blake Crouch'})
 CREATE (p5:Person{name:'Martha Cooper'})
 
-
 //Assets
 CREATE (a1:Asset {name:'Asset A'})
 MERGE (a1)-[:CREATED_BY]->(p1)
@@ -108,7 +107,6 @@ MERGE (a4)-[:REALIZED]->(t2)
 MERGE (a4)-[:REALIZED]->(t3)
 MERGE (a4)-[:REALIZED]->(t6)
 
-
 CREATE (a5:Asset {name:'Asset E'})
 MERGE (a5)-[:CREATED_BY]->(p1)
 MERGE (a5)-[:CREATED_BY]->(p4)
@@ -126,9 +124,10 @@ MERGE (a6)-[:REALIZED]->(t4)
 MERGE (a6)-[:REALIZED]->(t8)
 ~~~
 
-- [Sample Data Script](scripts.cql)
+- [Download the Sample Data Script](scripts.cql)
 
 ![image](images/SampleData.png)<br>
+_The created dataset_
 
 
 ### Simarility of Assets - Single points of reference
@@ -150,16 +149,16 @@ RETURN gds.util.asNode(node1).name AS Asset1,gds.util.asNode(node2).name AS Asse
 ORDER BY similarity DESCENDING,Asset1,Asset2
 ~~~
 
-Asset1|Asset2|similarity|
+|Asset1|Asset2|Similarity|
 |---|---|---|
-|"Asset B"|"Asset D"|0.66
-|"Asset C"|"Asset D"|0.5
-|"Asset A"|"Asset B"|0.25
-|"Asset B"|"Asset C"|0.25
-|"Asset B"|"Asset E"|0.25
-|"Asset A"|"Asset C"|0.2
-|"Asset A"|"Asset D"|0.2
-|"Asset D"|"Asset E"|0.2
+|"Asset B"|"Asset D"|0.66|
+|"Asset C"|"Asset D"|0.5|
+|"Asset A"|"Asset B"|0.25|
+|"Asset B"|"Asset C"|0.25|
+|"Asset B"|"Asset E"|0.25|
+|"Asset A"|"Asset C"|0.2|
+|"Asset A"|"Asset D"|0.2|
+|"Asset D"|"Asset E"|0.2|
 
 The result show us Assets B & D are similar with the highest set of common technologies.
 
@@ -185,12 +184,9 @@ Whilst analysing a collection of assets against a single common reference point 
 
 ---
 
-Reference work
+### Related work
 
 [Patterns](../Patterns/readme.md)
-
----
-
 
 ---
 
