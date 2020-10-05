@@ -1,6 +1,7 @@
 # Pulling the horizon closer
 
-*October 2020*
+<div align="right">October 2020</div>
+<div align="right">David Stevens</div>
 
 Most of my presentations mention the need to "pull the horizon towards us"; here I am referring to the need for an organisation to look beyond their current demand signals and towards the things on the edge of demand; either the current edge of their portfolio or the overall edge of the market.
 

@@ -1,5 +1,9 @@
 # Patterns from Assets
 
+<div align="right">October 2020</div>
+<div align="right">David Stevens</div>
+
+
 Organisations create many different types of assets to help articulate the value, implementation and usage of their products or services; Can we extract enough information from the simplest of representations to identify any common pattern or opportunity across this seemingly disconnected products?
 
 ![image](images/assets.png)<br>
