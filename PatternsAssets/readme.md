@@ -164,7 +164,7 @@ ORDER BY similarity DESCENDING,Asset1,Asset2
 |"Asset A"|"Asset D"|0.2|
 |"Asset D"|"Asset E"|0.2|
 
-The result show us Assets B & D are similar with the highest set of common technologies.
+The result show us Assets B & D are similar with a number of shared technologies.
 
 ![image](images/Example1.png)<br>
 
