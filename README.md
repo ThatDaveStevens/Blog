@@ -46,11 +46,12 @@
 
 - [NLP in Graph with Azure](NLPinGraph/readme.md)
 - [Digital Explorer - A Retrospective](DERetrospective/readme.md)
+- [Personas](Personas/readme.md)
 
 ## October 2020
 
 - [Online collaboration - the need for great intelligence](collaborationTools/readme.md)
-- [Personas](Personas/readme.md)
 - [Supply and Demand - pulling the horizon closer](Horizons/readme.md)
+- [Patterns from Assets](PatternsAssets/readme.md)
 
 
