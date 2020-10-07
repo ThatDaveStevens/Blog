@@ -50,7 +50,7 @@
 
 ## October 2020
 
-- [Online collaboration - the need for great intelligence](collaborationTools/readme.md)
+- [Online collaboration - the need for greater intelligence](collaborationTools/readme.md)
 - [Supply and Demand - pulling the horizon closer](Horizons/readme.md)
 - [Patterns from Assets](PatternsAssets/readme.md)
 
