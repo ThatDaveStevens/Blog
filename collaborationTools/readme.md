@@ -49,26 +49,7 @@ What are some of the core features for online collaboration?
 
 ## Feature Comparison
 
-| **Digital Explorer** | **Mural** | **Stormboard** | **Span** | **LucidChart** | **MS Teams Whiteboard** | **Powerpoint (when within MSTeams)** |
-| Freeform layouts | :large_blue_circle: |  :black_circle: |  :black_circle: |  :black_circle: |   |  :black_circle: |  :black_circle: |
-| Templates | :large_blue_circle: |  :black_circle: |  :black_circle: | |   | :red_circle: |  :black_circle: |
-| Simple columns | :black_circle: |  :black_circle: |  :black_circle: | |   | :red_circle: |  :black_circle: |
-| NLP analytics |  :black_circle: | :red_circle: | :red_circle: | :red_circle: |   | :red_circle: | :red_circle: |
-| Custom layouts | :red_circle: |  :black_circle: |  :black_circle: | |   | :red_circle: |  :black_circle: |
-| Export (data) |  :black_circle: |  :black_circle: |  :black_circle: | |  :black_circle: | |  :black_circle: |
-| Export (image) |  :black_circle: |  :black_circle: |  :black_circle: | | :red_circle: |  :black_circle: |
-| Realtime collaboration |  :black_circle: |  :black_circle: |  :black_circle: |  :black_circle: |   |  :black_circle: | :black_circle: |
-| Internal and External collaboration |  :black_circle: |  :black_circle: |  :black_circle: |  :black_circle: |   |  :black_circle: | :large_blue_circle: |
-| free drawing mode | :red_circle: |  :black_circle: | :red_circle: |  :black_circle: |   |  :black_circle: |  :black_circle: |
-| Full mobile features | :red_circle: | x | x | x |   | | :large_blue_circle: |
-| Supporting mobile app | :red_circle: | :red_circle: | :red_circle: |  :black_circle: |   || :large_blue_circle: |
-| Licence required | :red_circle: |  :black_circle: |  :black_circle: |  :black_circle: |   |  :black_circle: |  :black_circle: |
-| Infinite canvas | :red_circle: |  :black_circle: | :large_blue_circle: |  :black_circle: |   | :red_circle: | :large_blue_circle: |
-| Ability to annotate | :large_blue_circle: |  :black_circle: | :large_blue_circle: | x |   | :red_circle: |  :black_circle: |
-| Offline access | :red_circle: | :red_circle: | :red_circle: | :red_circle: |   | :red_circle: |  :black_circle: |
-| SaaS |  :black_circle: |  :black_circle: |  :black_circle: |  :black_circle: |   |  :black_circle: |  :black_circle: |
-| knowledge capture |  :black_circle: | :red_circle: | :red_circle: | :red_circle: | :red_circle: | :red_circle: | :red_circle: |
-| Open Source |  :black_circle: | :red_circle: | :red_circle: | :red_circle: | | :red_circle: | :red_circle: |
+![image](images/table.png)<br>
 
 
 
