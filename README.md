@@ -55,3 +55,6 @@
 - [Patterns from Assets](PatternsAssets/readme.md)
 
 
+## November 2020
+
+- [NLP - Understanding the value of the new insights](InsightWeight/readme.md)
