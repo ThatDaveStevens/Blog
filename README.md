@@ -6,7 +6,7 @@
 ## Feb 2016
 
 - [Insights into the Canvas](Canvas/readme.md)
-- [Solution Composition](Compostion/readme.md)
+- [Solution Composition](Composition/readme.md)
 
 ## June 2017
 
@@ -69,3 +69,8 @@
 ## November 2020
 
 - [NLP - Understanding the value of the new insights](InsightWeight/readme.md)
+
+
+## January 2021
+
+- [The unknown contributor](TheUnknownContributor/readme.md)
