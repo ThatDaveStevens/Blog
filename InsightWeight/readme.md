@@ -34,6 +34,8 @@ This is shown within the Insight view with a simple icon included within the Ins
 
 [NLP within Graph](../NLPinGraph/readme.md)
 
+`Azure`, `Neo4j`, `NLP`
+
 ---
 
 [BACK](../README.md)

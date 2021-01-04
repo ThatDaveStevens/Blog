@@ -3,6 +3,17 @@
 [About me](aboutme.md)
 ----
 
+## Feb 2016
+
+- [Insights into the Canvas](Canvas/readme.md)
+- [Solution Composition](Compostion/readme.md)
+
+## June 2017
+
+- [Natural Language Processing using Graph](NLPGraph/readme.md)
+- [NLP – DXC leadership conference CTO Keynote](CTONLP/readme.md)
+
+
 ## November 2018
 - [Community Detection](communityDetection/readme.md)
 
