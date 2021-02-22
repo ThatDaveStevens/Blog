@@ -44,16 +44,38 @@ We all know listening to customers is key, but writing it down it just as import
 
 ### Intelligent analytics
 #### Self service to fully automated customer 360 platforms.
+Text analytics, whilst still not a full commodity service is now available from all the major cloud providers as a set of API enabled services, allowing organisations with the means to assemble solutions which can allow sales and account team the means to read in and view the key themes from a set of customer documents.    Platforms such as DXC's [Digital Explorer](https://digitalexplorer.dxc.com) provide users with a self-service approach to load in RFP's, annual reports and any other related material to create a knowledge view of a customers needs.    Taking each of these individual views into a combined viewpoint allows an organisation the demand signals from any number of dimensions.
+
+![image](images/customerInsights.png)<br>
+*Snippet from automotive trends 2010-2019 - Flourish Studio*
 
 
+#### Customer 360 platforms
+Taking concepts similar to those implemented within XModus and Digital Explorer, it's would be easy to combine the 2, creating an automated customer 360 viewpoint based on a set of given requirements.  You still need some form of input, a set of requirements, but it would be very easy to automate the collection of open and published information for many (if not all) organisations globally - annual reports, linkedIn publications, tweets from key influencers within the organisations  all combined into a single organisation viewpoint and extended out to a vast industry knowledge pool
 
+---
 
 ## Understand your own capabilities
+Understanding your own internal capabilities in a clear and concise manner is crucial. Start with a clear approach on how to document, share and unlock value from your own products and services, once this is achieved the true potential of a data driven enterprise can be realized.
+
+![image](images/capabilityModel.png)<br>
+
+### Unlocking greater value from your products and service models.
+
+### Pattern Analytics
+Pattern matching within data is a very standard practice and once your solutions, services are modelled in a consistent manner you will be able to identify [common patterns of capabilities and services](../Patterns/readme.md); remove duplications and identify areas of potential efficiency gains.
 
 
-## The power of connections
+## Modelling and composition
+The more advanced organisation can take full advantage of a well defined and executed standards, by allowing each capability to become a true building block within an future solution; [solution composition](../Composition/readme.md) or architecture as code 
 
 
-## Underpinnings
+## Bringing this together - The power of connections
 
-A key under pinning of all these aspects of a data driven organisation, is a common and maintained taxonomy and information model across the organisation, in fact I would go as far to say this is the first step any organisation has to take; defining a common language and taxonomy not only saves the well documented pains of data consolidation, but 
+Whilst focusing on one single area can bring great value to an organisation, it's when you connect all 3 that you fully realize the data driven organisation.   Recommendations flow from delivered solutions into the hands of sales, solution owners can plan development backlogs based on outside (data driven) insights, allowing product teams to get ahead of the wave.
+
+--- 
+
+### Let's not forget about Master Data Management
+
+A key under pinning of all these aspects of a data driven organisation, is a common and maintained taxonomy and information model across the organisation, in fact I would go as far to say this is the first step any organisation has to take; defining a common language and taxonomy ensures all areas of an organisation can exchange information and gain insights.
