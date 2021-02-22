@@ -74,6 +74,8 @@ The more advanced organisation can take full advantage of a well defined and exe
 
 Whilst focusing on one single area can bring great value to an organisation, it's when you connect all 3 that you fully realize the data driven organisation.   Recommendations flow from delivered solutions into the hands of sales, solution owners can plan development backlogs based on outside (data driven) insights, allowing product teams to get ahead of the wave.
 
+There is also the potential to change how resource management is handled within an organisation, by changing the way the supply and demand horizon is captured, we can [pull the horizon closer](../Horizons/readme.md), allowing an organisation the means to adapt to changes across all aspects of an organisation.
+
 --- 
 
 ### Let's not forget about Master Data Management
