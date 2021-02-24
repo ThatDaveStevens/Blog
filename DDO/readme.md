@@ -69,7 +69,7 @@ Understanding your own internal capabilities in a clear and concise manner is cr
 ### Pattern Analytics
 Pattern matching within data is a very standard practice and once your solutions, services are modelled in a consistent manner you will be able to identify [common patterns of capabilities and services](../Patterns/readme.md); remove duplications and identify areas of potential efficiency gains.
 
-## Modelling and composition
+### Modelling and composition
 The more advanced organisation can take full advantage of a well defined and executed standards, by allowing each capability to become a true building block within an future solution; [solution composition](../Composition/readme.md) or architecture as code 
 
 
