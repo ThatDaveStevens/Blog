@@ -43,10 +43,7 @@ We all know listening to customers is key, but writing it down it just as import
 ### Good CRM practices
 Cross referencing and analysing the core data within your CRM platform can reveal patterns of opportunity, a small opportunity may be repeated multiple times without product owners or business leaders being aware.   Spent time here both in the analyse of the data, but also on best practices and coaching to ensure sales teams document what is important.
 
-<p align="center">
-  <img src=images/similarity.png" />
-</p>
-
+![image](images/similarity.png)<br>
 *Look for similarity within CRM data*
 
 ### Intelligent analytics
