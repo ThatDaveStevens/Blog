@@ -73,4 +73,4 @@
 
 ## February 2021
 
-- [Roadmap to a data driven organisation](DDO/readme.md)
+- [Roadmap to a data driven enterprise](DDO/readme.md)
