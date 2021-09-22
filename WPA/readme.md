@@ -36,23 +36,21 @@ Enabling the solution is very straight forward, following the documented require
 
 The solution has 3 clear target audiences, with this in mind I outlined 3 hypothesis' I wanted to explore:
 
-    - H1 : Can the insights support senior **leaders** as they define and monitor the transformation of DXC?
-    - H2 : Can the insights be provided to individual **managers** to action and drive marginal improvements?
-    - H3 : Are **individuals** gaining insights and value from their MyInsights emails and personal portal?
+- H1 : Can the insights support senior **leaders** as they define and monitor the transformation of DXC?
+- H2 : Can the insights be provided to individual **managers** to action and drive marginal improvements?
+- H3 : Are **individuals** gaining insights and value from their MyInsights emails and personal portal?
 
 
 To introduce the topic to each leader and manager group I selected 6 key metrics, pulled from the detailed PowerBi reports and filtered down to their individual team or organisation.  This has a very positive impact and immediately grabbed each teams attention.    "these are your numbers, these are your recommendations"
 
 The 6 metrics I included where:
 
-    - % of time spent in recurring meetings
-    - average working week (hours)
-    - % of employees with no 1:1 time with their manager
-    - # of emails are between just 2 people
-    - % of employees average more than 14 hours of after-hours collaboration per week
-    - % of managers meeting hours are double booked
-
-
+- % of time spent in recurring meetings
+- average working week (hours)
+- % of employees with no 1:1 time with their manager
+- Number of emails are between just 2 people
+- % of employees average more than 14 hours of after-hours collaboration per week
+- % of managers meeting hours are double booked
 
 ## The Leaders experience
 
