@@ -52,10 +52,10 @@ The 6 metrics I included where:
 - % of employees average more than 14 hours of after-hours collaboration per week
 - % of managers meeting hours are double booked
 
-## The Leaders experience
+## The leaders experience
 
 
-## The Managers experience 
+## The managers experience 
 For each pilot team and group I defined a clear set of weekly goals, over a 6 week period.   A detailed welcome\getting starting presentation was provided to them after their kick-off calls.
 
 ### Week 1 : Initial impressions
