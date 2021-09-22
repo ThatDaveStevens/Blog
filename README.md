@@ -77,4 +77,4 @@
 
 ## September 2021
 
-- [Microsoft Viva | Workplace Analytics - How to run a pilot](WPA/readme.md)
+- [Microsoft Viva / Workplace Analytics - How to run a pilot](WPA/readme.md)
