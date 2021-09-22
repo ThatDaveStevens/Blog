@@ -12,18 +12,18 @@ There is a lot of noise around what Workplace Analytics is and isn't and I think
 
 As you prepare to introduce the solution to your organisation identify and engage **very early** with representatives from at least the following groups:
 
-    - Human Resources
-    - Legal
-    - Cyber Security and Privacy
-    - Work Council
-    - Leadership within any pilot group
+- Human Resources
+- Legal
+- Cyber Security and Privacy
+- Work Council
+- Leadership within any pilot group
 
 Outlining the scope of the solution and it's intent within an organisation is key and I would recommend the agreements reached are documented and published within a requirements or formal policy document.
 
 Topics such as :
-    - minimum group size
-    - opt-out\in policy
-    - data and report access controls 
+- minimum group size
+- opt-out\in policy
+- data and report access controls 
 
 Plus callout any key principles which will be applied, for example "**employee anonymity is non-negotiable**"
 
@@ -36,9 +36,9 @@ Enabling the solution is very straight forward, following the documented require
 
 The solution has 3 clear target audiences, with this in mind I outlined 3 hypothesis' I wanted to explore:
 
-- H1 : Can the insights support senior **leaders** as they define and monitor the transformation of DXC?
-- H2 : Can the insights be provided to individual **managers** to action and drive marginal improvements?
-- H3 : Are **individuals** gaining insights and value from their MyInsights emails and personal portal?
+#### H1 : Can the insights support senior **leaders** as they define and monitor the transformation of DXC?
+#### H2 : Can the insights be provided to individual **managers** to action and drive marginal improvements?
+#### H3 : Are **individuals** gaining insights and value from their MyInsights emails and personal portal?
 
 
 To introduce the topic to each leader and manager group I selected 6 key metrics, pulled from the detailed PowerBi reports and filtered down to their individual team or organisation.  This has a very positive impact and immediately grabbed each teams attention.    "these are your numbers, these are your recommendations"
