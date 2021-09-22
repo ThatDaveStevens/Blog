@@ -73,4 +73,8 @@
 
 ## February 2021
 
-- [Roadmap to a data driven organisation](DDO/readme.md)
+- [Roadmap to a data driven enterprise](DDO/readme.md)
+
+## September 2021
+
+- [Microsoft Viva | Workplace Analytics - How to run a pilot](WPA/readme.md)
