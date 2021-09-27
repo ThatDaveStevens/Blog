@@ -43,7 +43,7 @@ The solution has 3 clear target audiences, with this in mind I outlined 3 hypoth
 
 To introduce the topic to each leader and manager group I selected 6 key metrics, pulled from the detailed PowerBi reports and filtered down to their individual team or organisation.  This has a very positive impact and immediately grabbed each teams attention.    "these are your numbers, these are your recommendations"
 
-The 6 metrics I included where:
+The 6 **standout** metrics I included where:
 
 - % of time spent in recurring meetings
 - average working week (hours)
@@ -52,8 +52,14 @@ The 6 metrics I included where:
 - % of employees average more than 14 hours of after-hours collaboration per week
 - % of managers meeting hours are double booked
 
+![image](images/Slide1.png)<br>
+_Example of the standout metrics shared with leaders_
+
 ## The leaders experience
 
+Ensure you are discussing the metrics and recommendations with leaders who have the ability to drive the required changes, without the correct context and understanding many of the insights and recommendations can portray a negative impression.   Discussing these openly with the leaders who correctly understand the operations within an organisation can help level set many of the insights.    The standout metrics should also provide the evidence needed to support a number of existing hypothesis and can be taken into senior leadership discussions to help reinforce the recommendations being made.
+
+Working with HR leadership in 2 key regions, 
 
 ## The managers experience 
 For each pilot team and group I defined a clear set of weekly goals, over a 6 week period.   A detailed welcome\getting starting presentation was provided to them after their kick-off calls.
@@ -83,9 +89,16 @@ For each pilot team and group I defined a clear set of weekly goals, over a 6 we
 
 During the pilot we ran an internal meeting with the collaboration guild to share and discuss our personal usage of the My Analytics solution.   To kick off the meeting I took the same 6 metrics presented to the leaders and managers, but this time showed the values for an average employee based in the UK.   The discussion was excellent and called out many interesting areas; ranging from "I thought it was just a weekly junk email" to "this has really helped me understand the organisation".    Drawing attention to the key metrics and referencing the supporting research and recommendations, provided a good opportunity to highlight certain areas where an individual can take full control of their own calendars.
 
+![image](images/Slide2.png)<br>
+_Example of the average employee metrics shared with individuals_
+
 
 
 ## Results & Retrospective
-Whilst I won't share any metrics or confidential information here, the results of the pilot were mixed.  Leaders who engaged and were able to easily connect the metrics and recommendations to either existing strategic programs or start a discussion on potential areas to address saw high value.    It was a very different experience with the managers, the drop-off of engagement was sharp following the first few weeks (25% responding the first week to only 3% by week 6)..  Failing of the solution? or a failing to the self-service approach I took?  Underlying cultural issue within the organisation?  Maybe a little a mix of all 3.
+Whilst I won't share any metrics or confidential information here, the results of the pilot were mixed.  **Leaders** who engaged and were able to easily connect the metrics and recommendations to either existing strategic programs or start a discussion on potential areas to address and did see high value within the solution; there was also interest in comparing the employee survey (through Glint) against the insights within WPA (sadly this wasn't explored as I think allowing someone who is about to leave an organisation access to the raw glint data wasn't something the organisation was willing to do).    
+<br>
+It was a very different experience with the **managers**, the drop-off of engagement was sharp following the first few weeks (25% responding the first week to only 3% by week 6)..  Failing of the solution? or a failing to the self-service approach I took?  Underlying cultural issue within the organisation?  Maybe a little a mix of all 3.
+<br>
+![image](images/engagement.png)<br>
 
-From the individual experience, I think it highlighted some real potential of the solution and that an organisation should 
+From the **individual** experience, I think the discussion sessions we ran highlighted some real potential of the solution and that an organisations should define supporting programs around this solution, driving both awareness but also emphasize that employees have the ability to own their own calendars and should find a working pattern which suits them - especially in a hybrid working model.
