@@ -64,8 +64,11 @@ Working with HR leadership in 2 key regions,
 ## The managers experience 
 For each pilot team and group I defined a clear set of weekly goals, over a 6 week period.   A detailed welcome\getting starting presentation was provided to them after their kick-off calls.
 
+<<<<<<< HEAD
 ![image](images/journey.png)<br>
 
+=======
+>>>>>>> 887299c8b9fc63bde0fc65bf8d7da1333d9b60ad
 ### Week 1 : Initial impressions
 - Don't trip and find the answer after the first week, review, digest and let the information and recommendations sink in.
 

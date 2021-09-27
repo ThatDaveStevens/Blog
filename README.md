@@ -71,6 +71,10 @@
 - [NLP - Understanding the value of the new insights](InsightWeight/readme.md)
 
 
-## January 2021
+## February 2021
 
-- [The unknown contributor](TheUnknownContributor/readme.md)
+- [Roadmap to a data driven enterprise](DDO/readme.md)
+
+## September 2021
+
+- [Microsoft Viva / Workplace Analytics - How to run a pilot](WPA/readme.md)
