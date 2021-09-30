@@ -1,5 +1,12 @@
+
+
 # Microsoft Viva Insights | Workplace Analytics
 ## A pilot approach
+
+<div align="right">September 2021</div>
+<div align="right">David Stevens</div>
+
+_my last project for DXC_
 
 [Microsoft Viva Insights](https://www.microsoft.com/en-us/microsoft-viva/insights) is a employee analytics platform which unlocks the working behaviours of an organisation and how they actually work and collaborate within the Microsoft 365 eco-system (and beyond*)
 
