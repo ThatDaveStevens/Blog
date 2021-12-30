@@ -78,3 +78,7 @@
 ## September 2021
 
 - [Microsoft Viva / Workplace Analytics - How to run a pilot](WPA/readme.md)
+
+## December 2021
+
+- [Slack and NeoDash](SlackModel/readme.md)
