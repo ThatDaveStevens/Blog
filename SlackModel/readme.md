@@ -8,18 +8,21 @@ Small social network graph to identify common groups between people, in part thi
 ![image align="center"](images/HRModel.png)<br>
 _The starting datamodel from Michael's post_ 
 <br>
+<br>
 
 ![image](images/SlackModel.png)<br>
 _The simple Slack model_
+<br>
 <br>
 
 ![image](images/SlackModel2.png)<br>
 _My combined working model_
 <br>
+<br>
 
 _Models drawn using [Arrows](https://arrows.app/)_
 
-## Setting up a Slack application/AOIU
+## Setting up a Slack application/API
 
 Before getting into Neo4j, I need to [set-up an API within Slack](https://api.slack.com/apps) to provide the information needed to complete the dataset.
 Here I created a very simple API application with the following **User Token Scopes**
