@@ -1,41 +1,37 @@
-## Slack channels and members into Neo4j
+# Social Recommendations - Slack, Neo4j and NeoDash
 
 <div align="right">December 2021</div>
 <div align="right">David Stevens</div>
 
-Small social network graph to identify common groups between people, in part this is inspired by a post by Michael Hunger on our internal "All nodes" slack channel; where he shared how to import and work with a subset of our HR dataset (person, department & location); could I extend this information with the Slack channels we belong too and make some recommendations for teams, new hires and generally mess about with Neo4j and some data.
+Small social network graph to identify common groups between people, in part this is inspired by a post by Michael Hunger on our internal "All nodes" Slack channel; where he shared how to import and work with a subset of our HR dataset (person, department & location); **Could I extend this information with the Slack channels we belong too and make some recommendations for teams, new hires and generally mess about with Neo4j and some data?**
 
-![image](images/HRModel.png)<br>
+![image align="center"](images/HRModel.png)<br>
 _The starting datamodel from Michael's post_ 
+<br>
 
 ![image](images/SlackModel.png)<br>
-_The simple slack model_
+_The simple Slack model_
+<br>
 
 ![image](images/SlackModel2.png)<br>
 _My combined working model_
+<br>
 
-_models drawn using [Arrows](https://arrows.app/)_
+_Models drawn using [Arrows](https://arrows.app/)_
 
+## Setting up a Slack application/AOIU
 
-
-## Settting up a Slack application/AOIU
-
-Before getting into Neo4j, we need to [set-up an API within Slack](https://api.slack.com/apps) to provide the information we need to complete the dataset.
+Before getting into Neo4j, I need to [set-up an API within Slack](https://api.slack.com/apps) to provide the information needed to complete the dataset.
 Here I created a very simple API application with the following **User Token Scopes**
 
 ![image](images/SlackAPI.png)<br>
 
-Once set-up, you just need to deploy the application into selected Slack workspace.
+Once set-up, this is deployed into selected Slack workspace (I tested this first against a very small playground Slack workspace I created).
 
-
-
-## Neo4j set-up
-My baseline dataset was the internal Neo4j organisation structure which had been shared internally, so all we need to do is import the slack data into this existing Graph database.
-
-In total 3 calls are required against the Slack API, the first is to retrieve the list of channels, the API is limited to only return public channels within the worksplace, so any private channels are not included.    The second call takes the channelID and retrieves the list of users who are members of the channel; here Slack provides just the users MemberID, so a 3rd call is required to get the actual name and email addresses of the channel members.
+## Importing the Slack data into Neo4j 
+In total 3 calls are required against the Slack API, the first is to retrieve the list of channels within the Slack workspace, the API is limited to only return public channels within the workspace, so any private channels are not included.    The second call takes the channelID and retrieves the list of users who are members of the channel; here Slack provides just the users MemberID, so a 3rd call is required to get the actual name and email addresses of the channel members.
 
 To help with data integrity I set-up a number of Constraints and Indexes.
-
 
 ### Constraints
 
@@ -47,7 +43,6 @@ To help with data integrity I set-up a number of Constraints and Indexes.
 - `CREATE INDEX PersonName FOR (n:Person) ON (n.name)`
 
 
-
 ## Importing the data from Slack
 
 As the API calls into Slack require an authorization header to be provided, all the dataloads are completed with the APOC procedure [`apoc.load.jsonParams`](https://neo4j.com/labs/apoc/4.2/overview/apoc.load/apoc.load.jsonParams/), which allows for this information to be passed correctly to the API.
@@ -55,12 +50,12 @@ As the API calls into Slack require an authorization header to be provided, all 
 
 ### List of channels
 
-First we collect all the details of the **public** channels within the Slack Workspace
+First collect all the details of the **public** channels within the Slack Workspace
 
 **Note : URI and Tokens set are parameters to help with the main queries.
 
 `:param uri => "https://slack.com/api/conversations.list?limit=500"` <br>
-`:param token => "Bearer xoxp-12345567889-123455678"`
+`:param token => "Bearer xoxp-12345567889-123455678" (not a real token ;) )`
 
 This will create this simple Graph model for the returned data.
 
@@ -78,11 +73,11 @@ MERGE (p)-[:CREATED]->(c)
 ![image](images/SlackImport.png)
 
 ### Retrieving the list of members
-As mentioned above, we now need to retrieve the list of members of each Slack channel.   Here we will loop against each channelId and make a series of API calls for each channel. 
+As mentioned above, I now need to retrieve the list of members of each Slack channel.   Here I will loop against each channelId and make a series of API calls for each channel. 
  
 The Slack API required is https://api.slack.com/methods/conversations.members
 
-Again, we've set some parameters to help with building out the required API calls.
+Again, I setup some parameters to help with building out the required API calls.
 
 `:param cMembers => "https://slack.com/api/conversations.members?channel="` <br>
 `:param cMembersEnd => "&limit=1000&pretty=1"`
@@ -98,7 +93,7 @@ WITH p,c
 MERGE (p)-[:MEMBEROF]->(c)
 ~~~
 
-:warning: This one can take a little while as it iterates over every channel, pulling in the list of members for each.
+**:Warning: This one can take a little while as it iterates over every channel, pulling in the list of members for each.**
 
 ![image](images/SlackImport2.png)
 
@@ -137,7 +132,7 @@ set p.name = item.real_name
 
 ## Gaining value from the collected data.
 
-Whilst importing the data and playing around with the Slack API's and Neo4j is kind of fun; how can we use this information to bring some value to a team or an individual ?
+Whilst importing the data and playing around with the Slack API's and Neo4j is kind of fun; how can I use this information to bring some value to a team or an individual ?
 
 Neodash is an excellent tool to quickly create PoC's or prototyping dashboards with no real coding required; just the same Cypher query knowledge used to import the data.
 
@@ -152,24 +147,20 @@ Option to select based on a given country - this is where NeoDash is really powe
 ![images](images/neodash/dash1.png)<br>
 
 ### Team view
-Again using the parameter selector, I am able to show the most popular channels for a selected team.
+Again using the parameter selector, I am able to show the most popular channels for a selected team and the percentage of team members within each channel.
 
 ![images](images/neodash/dash2.png)<br>
 
 ### Individual view
-This is the opportunity to provide some personal recommendations and not just recommendations based on the team, department or location you reside in; but recommendations based on membership of the groups you belong too. 
+This is the opportunity to provide some personal recommendations and not just recommendations based on the team, department or location you reside in; but recommendations based on membership of the groups you belong too.
+
+By selecting the name of current channel the person belongs too, a set of recommendations can be made of other channels the person may wish to join.  This is achieved by simplify following the path of "People in this channel are also members of these channels".
 
 ![images](images/neodash/dash3.png)<br>
 
 
 
+### Storing the dashboard
+This is very easy, as I can just store the dashboard configuration directly within my Neo4j database, allowing others to both view the results and also review/improve the queries used.
 
-
-
-
-
-
-
-
-
-
+![image](images/neodash/dash4.png)<br>

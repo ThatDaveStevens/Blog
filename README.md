@@ -81,4 +81,4 @@
 
 ## December 2021
 
-- [Slack and NeoDash](SlackModel/readme.md)
+- [Social Recommendations - Slack, Neo4j and NeoDash](SlackModel/readme.md)
