@@ -2,8 +2,13 @@
 
 <div align="right">December 2021</div>
 <div align="right">David Stevens</div>
+<br>
 
-Small social network graph to identify common groups between people, in part this is inspired by a post by Michael Hunger on our internal "All nodes" Slack channel; where he shared how to import and work with a subset of our HR dataset (person, department & location); **Could I extend this information with the Slack channels we belong too and make some recommendations for teams, new hires and generally mess about with Neo4j and some data?**
+Small social network graph to identify common groups between people, this builds upon of _Employee Fingerprint_ concept I was working on in my last job and triggered by a post by Michael Hunger on our internal "All nodes" Slack channel; where he shared how to import and work with a subset of our HR dataset (person, department & location).
+
+<br>
+
+ **Could I extend this information with the Slack channels we belong too and make recommendations for teams, new hires and generally mess about with Neo4j and some data?**
 
 ![image align="center"](images/HRModel.png)<br>
 _The starting datamodel from Michael's post_ 
@@ -29,7 +34,7 @@ Here I created a very simple API application with the following **User Token Sco
 
 ![image](images/SlackAPI.png)<br>
 
-Once set-up, this is deployed into selected Slack workspace (I tested this first against a very small playground Slack workspace I created).
+Once set-up, this is deployed into selected Slack Workspace, where my User tokens can be used to access the Workspace under my registered account - giving me access to the same information I have available within the Slack desktop application.
 
 ## Importing the Slack data into Neo4j 
 In total 3 calls are required against the Slack API, the first is to retrieve the list of channels within the Slack workspace, the API is limited to only return public channels within the workspace, so any private channels are not included.    The second call takes the channelID and retrieves the list of users who are members of the channel; here Slack provides just the users MemberID, so a 3rd call is required to get the actual name and email addresses of the channel members.
@@ -76,7 +81,7 @@ MERGE (p)-[:CREATED]->(c)
 ![image](images/SlackImport.png)
 
 ### Retrieving the list of members
-As mentioned above, I now need to retrieve the list of members of each Slack channel.   Here I will loop against each channelId and make a series of API calls for each channel. 
+As mentioned above, I now need to retrieve the list of members of each Slack channel.   Here I loop against each channelId and make a series of API calls for each channel. 
  
 The Slack API required is https://api.slack.com/methods/conversations.members
 
@@ -130,7 +135,14 @@ set p.name = item.real_name
 **Our Slack import is now complete**
 
 ![image](images/bloom-visualisation.png)<br>
+
+
+The final step is to import the internal HR dataset, to connect departments, locations and countries to each user.   It's imported at this stage, as the email address is required to ensure the correct information is stored for each person.   Whilst I could have imported the Slack data into an existing Graph with the HR data already loading, the series of API's call required against Slack would have been slightly different.
+
 ---
+
+---
+
 
 
 ## Gaining value from the collected data.
@@ -167,3 +179,9 @@ By selecting the name of current channel the person belongs too, a set of recomm
 This is very easy, as I can just store the dashboard configuration directly within my Neo4j database, allowing others to both view the results and also review/improve the queries used.
 
 ![image](images/neodash/dash4.png)<br>
+
+
+## Conclusion
+
+I have to say this was incredibly easy to complete, I started the project thinking I would need some Java scripts to help manage the data loading and sequencing of the API calls against Slack, but the bundled APOC procedure to support API calls with authorization headers made this a very simple and pleasant project to complete.   The presentation of the data within NeoDash was also very easy, making this a very low code project.
+
