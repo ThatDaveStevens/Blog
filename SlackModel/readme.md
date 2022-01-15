@@ -60,6 +60,8 @@ As the API calls into Slack require an authorization header to be provided, all 
 
 First collect all the details of the **public** channels within the Slack Workspace
 
+The Slack API required is https://api.slack.com/methods/conversations.list 
+
 **Note : URI and Tokens set are parameters to help with the main queries.
 
 `:param uri => "https://slack.com/api/conversations.list?limit=500"` <br>

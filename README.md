@@ -82,3 +82,7 @@
 ## December 2021
 
 - [Social Recommendations - Slack, Neo4j and NeoDash](SlackModel/readme.md)
+
+## January 2022
+
+- [Don't forget to turn the page - Paged API calls with APOC](APOCPages/readme.md)
