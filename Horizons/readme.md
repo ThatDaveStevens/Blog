@@ -1,6 +1,7 @@
 # Pulling the horizon closer
 
-<div align="right">October 2020</div>
+<time class=”entry-date published” datetime=”2019–04–15T10:25:32+00:00">October 1, 2020</time>
+<time class=”updated” datetime=”2019–09–12T10:35:33+00:00">October 1, 2020</time>
 <div align="right">David Stevens</div>
 
 Most of my presentations mention the need to "pull the horizon towards us"; here I am referring to the need for an organisation to look beyond their current demand signals and towards the things on the edge of demand; either the current edge of their portfolio or the overall edge of the market.

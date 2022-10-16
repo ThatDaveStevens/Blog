@@ -1,7 +1,8 @@
 # Digital Explorer
 ## David versus Goliath
 
-<div align="right">September 2020</div>
+<time class=”entry-date published” datetime=”2019–04–15T10:25:32+00:00">September 1, 2020</time>
+<time class=”updated” datetime=”2019–09–12T10:35:33+00:00">September 1, 2020</time>
 <div align="right">David Stevens</div>
 
 [DXC Digital Explorer](https://digitalexplorer.dxc.com) is a pioneering project within the DXC Global Technology Office, sponsored by the Global CTO and Chief Architect.   The platform enables a fully data driven customer engagement from understanding requirements to composing solutions.   Leveraging a Neo4j Graph database platform, the platform provides 5 highly connected modules.    

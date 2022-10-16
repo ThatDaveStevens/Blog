@@ -1,5 +1,7 @@
 # Composition
-<div align="right">Feb 2016</div>
+
+<time class=”entry-date published” datetime=”2019–04–15T10:25:32+00:00">February 1, 2016</time>
+<time class=”updated” datetime=”2019–09–12T10:35:33+00:00">February 1, 2016</time>
 <div align="right">David Stevens</div>
 
 

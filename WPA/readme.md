@@ -1,12 +1,11 @@
-<div class=”postmetadata”>
-  Posted on <span class=”updated”>September 1st, 2021</span> 
-</div>
+
 
 # Microsoft Viva Insights | Workplace Analytics
 ## A pilot approach
 
 <div align="right">September 2021</div>
-<div align="right">David Stevens</div>
+<time class=”entry-date published” datetime=”2019–04–15T10:25:32+00:00">September 1, 2021</time>
+<time class=”updated” datetime=”2019–09–12T10:35:33+00:00">September 1, 2021</time>
 
 _my last project for DXC_
 

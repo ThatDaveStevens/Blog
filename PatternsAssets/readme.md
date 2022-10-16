@@ -1,6 +1,8 @@
 # Patterns from Assets
 
-<div align="right">October 2020</div>
+<time class=”entry-date published” datetime=”2019–04–15T10:25:32+00:00">October 1, 2020</time>
+<time class=”updated” datetime=”2019–09–12T10:35:33+00:00">October 1, 2020</time>
+
 <div align="right">David Stevens</div>
 
 
