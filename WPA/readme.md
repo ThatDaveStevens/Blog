@@ -1,4 +1,6 @@
-
+<div class=”postmetadata”>
+  Posted on <span class=”updated”>September 1st, 2021</span> 
+</div>
 
 # Microsoft Viva Insights | Workplace Analytics
 ## A pilot approach
